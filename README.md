@@ -12,7 +12,7 @@ Baidu: https://pan.baidu.com/s/1snfs3vB Password: tt63 (Haven't get the label on
 Google: uploading...
 
 The verification code pictures is shown as below:
-
+![login](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/master/to_lmdb/train_images/0.png)
 
 The lenth of these formula is 5 or 7 while only contains " * + - ( ) " and without " / " ! 
 To add " / " for more complicated formula please add it into alphabets.py .
