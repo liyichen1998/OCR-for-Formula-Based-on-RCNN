@@ -21,4 +21,4 @@ The final accuracy on valset is 98% , link of pretrained model is listed below.
 
 Baidu:  https://pan.baidu.com/s/1pLXA5SmuiEGYMnvmllS4Og  Password: spwe
 
-Google: uploading...
+Google: https://drive.google.com/file/d/1LlBEtJqbsLA03nzMxvxnf1qZkTdrOHp0/view?usp=sharing
