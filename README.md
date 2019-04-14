@@ -15,6 +15,11 @@ The verification code pictures is shown as below:
 
 ![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/0.png)
 
+![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/1.png)
+
+![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/2.png)
+
+![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/3.png)
 The lenth of these formula is 5 or 7 while only contains " * + - ( ) " and without " / " ! 
 To add " / " for more complicated formula please add it into alphabets.py .
 
