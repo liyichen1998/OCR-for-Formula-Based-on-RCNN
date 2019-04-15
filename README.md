@@ -9,18 +9,14 @@ This is an implementation dealing with the formula recognization in verification
 
 Baidu: https://pan.baidu.com/s/1snfs3vB Password: tt63 (Haven't get the label on validate set, you just need to download image_contest_level_1)
 
-Google: uploading...
+Google: https://drive.google.com/file/d/1EWPxJmXAVj8ZKICgF7bFqItZvC8evqLO/view?usp=sharing
 
 The verification code pictures is shown as below:
 
 ![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/0.png)
-
 ![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/1.png)
-
 ![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/2.png)
-
 ![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/3.png)
-
 ![0](https://github.com/liyichen1998/OCR-for-Formula-Based-on-RCNN/blob/master/OCR_for_Formula_Based_on_RCNN/to_lmdb/train_images/4.png)
 
 The lenth of these formula is 5 or 7 while only contains " * + - ( ) " and without " / " ! 
